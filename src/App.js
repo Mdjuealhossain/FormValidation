@@ -1,10 +1,10 @@
 import "./App.css";
-import { FaReact } from "react-icons/fa";
-import StopPropagation from "./Components/StopPropagation";
+import FormValidation from "./Components/FormValidation";
+
 function App() {
   return (
     <div>
-      <StopPropagation />
+      <FormValidation />
     </div>
   );
 }

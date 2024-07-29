@@ -1,7 +1,7 @@
-*, ::after,::before {
+/* *, ::after,::before {
   box-sizing: border-box;
   border: 0 solid #e5e7eb;
-}
+} */
 
 
 /* 
@@ -20,7 +20,7 @@
   }
 } */
 
-.App-header {
+/* .App-header {
 
  
   display: flex;
@@ -30,7 +30,7 @@
   margin-top: 3rem;
   margin-left: 1.25rem;
   margin-right: 1.25rem;
-}
+} */
 
 /* .btn-grp{
   align-self: center;
@@ -75,7 +75,7 @@
  color: black;
  
 } */
-.applogo{
+/* .applogo{
 font-size: 6.5rem;
 color: rgb(8,126,164);
 align-self: center;
@@ -96,13 +96,13 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 align-self: center;
 display: flex;
 margin: 0;
-}
+} */
 
 
 h1,p,img,a{
   margin: 0;
 }
-
+/* 
 .discr{
 color: rgb(64 71 86);
 font-size: 32px;
@@ -160,4 +160,4 @@ margin-right: .25rem;
 box-shadow:black;
 background-color: rgb(243, 242, 240);
 margin-left: .25rem;
-}
+} */
